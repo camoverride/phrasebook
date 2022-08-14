@@ -1,0 +1,39 @@
+---
+layout: default
+title: { title }
+nav_order: { nav_order }
+---
+
+<!-- The phrasebook entries -->
+{% for phrase in phrases %}
+    <div class="phrase-wrapper">
+        <!-- The Original language (English) word or phrase -->
+        <div class="original-lang">{{ phrase.phrase }}</div>
+
+        <!-- Transcription in native orthography -->
+        <div class="trans-ortho">{{ phrase.ortho }}</div>
+
+        {%- if phrase.audio %}
+        {%- for audio_file in phrase.audio %}
+            <!-- An audio recording of this phrase -->
+            <div class="trans-audio">
+                <audio controls>
+                    <source src={{ audio_file }} type="audio/ogg">
+                </audio>
+            </div>
+        {%- endfor %}
+        {%- endif %}
+
+        {%- if phrase.ipa %}
+        <!-- Transcription in IPA -->
+        <div class="trans-ipa">/{{ phrase.ipa }}/</div>
+        {%- endif %}
+
+        {%- if phrase.comment %}
+        <!-- A comment about this phrase -->
+        <div class="trans-comment">{{ phrase.comment }}</div>
+        {%- endif %}
+        
+    </div>
+    <hr/>
+{% endfor %}

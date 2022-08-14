@@ -1,0 +1,25 @@
+title: Greetings
+
+description: Some of the most basic phrases in the Mongolian language
+
+hello:
+  - ortho: Сайн байна yy?
+  - ipa: sam ban u
+  - comment: "lit: 'are you good?'"
+  - audio: [https://storage.cloud.google.com/mongolian_language_files/test_1.m4v]
+  # https://storage.cloud.google.com/mongolian_language_files/test_2.m4v]
+
+thank you:
+  - ortho: баярлалаа
+  - ipa: "bai.rl.a:"
+  - audio: [https://storage.cloud.google.com/mongolian_language_files/test_3.m4v]
+
+goodbye:
+  - ortho: Баяртай
+
+excuse me:
+  - ortho: өршөөгөөрэй
+  - comment: rarely used
+
+sorry:
+  - ortho: уучлаарай
