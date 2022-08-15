@@ -7,3 +7,5 @@ permalink: /
 ---
 
 # Mongolian Phrasebook
+
+This is very much a work in progress. But stay tuned! More is coming soon.
