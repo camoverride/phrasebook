@@ -1,5 +1,15 @@
 """
 This module is resposible for converting yaml pages into HTML.
+
+This needs to be run manually if you want to include changes in a commit.
+
+TODO: automate this process during the jekyll build!
+
+This takes yaml files from the `___pages` directory and writes html docs
+in the `docs` directory. NOTE: these files need to have their front matter
+manually edited to include the title and page order.
+
+TODO: automate this process too
 """
 
 import jinja2
