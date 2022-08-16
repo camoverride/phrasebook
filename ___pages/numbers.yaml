@@ -7,36 +7,48 @@ description:
 
 zero:
   - ortho: тэг
+  - audio: [https://storage.googleapis.com/mongolian_language_files/numbers/zero.ogg]
 
 one:
   - ortho: нэг
+  - audio: [https://storage.googleapis.com/mongolian_language_files/numbers/one.ogg]
 
 two:
   - ortho: хоёр
+  - audio: [https://storage.googleapis.com/mongolian_language_files/numbers/two.ogg]
 
 three:
   - ortho: гурав
+  - audio: [https://storage.googleapis.com/mongolian_language_files/numbers/three.ogg]
 
 four:
   - ortho: дөрөв
+  - audio: [https://storage.googleapis.com/mongolian_language_files/numbers/four.ogg]
 
 five:
   - ortho: тав
+  - audio: [https://storage.googleapis.com/mongolian_language_files/numbers/five.ogg]
 
 six:
   - ortho: зургаа
+  - audio: [https://storage.googleapis.com/mongolian_language_files/numbers/six.ogg]
 
 seven:
   - ortho: долоо
+  - audio: [https://storage.googleapis.com/mongolian_language_files/numbers/seven.ogg]
 
 eight:
   - ortho: найм
+  - audio: [https://storage.googleapis.com/mongolian_language_files/numbers/eight.ogg]
 
 nine:
   - ortho: ес
+  - audio: [https://storage.googleapis.com/mongolian_language_files/numbers/nine.ogg]
 
 ten:
   - ortho: арав
+  - audio: [https://storage.googleapis.com/mongolian_language_files/numbers/ten.ogg]
 
 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10:
   - ortho: тэг, нэг, хоёр, гурав, дөрөв, тав, зургаа, долоо, найм, ес, арав
+  - audio: [https://storage.googleapis.com/mongolian_language_files/numbers/one_thru_ten.ogg]
