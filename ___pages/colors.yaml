@@ -2,6 +2,46 @@ title: Colors
 
 description:
 
+white:
+  - ortho: цагаан
+  - audio: []
+
+black:
+  - ortho: хар
+  - audio: []
+
 red:
   - ortho: улаан
+  - audio: []
+
+yellow:
+  - ortho: шар
+  - audio: []
+
+blue:
+  - ortho: цэнхэр
+  - audio: []
+
+green:
+  - ortho: ногоон
+  - audio: []
+
+purple:
+  - ortho: нил ягаан
+  - audio: []
+
+gray:
+  - ortho: саарал
+  - audio: []
+
+brown:
+  - ortho: бор
+  - audio: []
+
+gold:
+  - ortho: алт
+  - audio: []
+
+silver:
+  - ortho: мөнгө
   - audio: []
