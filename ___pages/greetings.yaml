@@ -6,20 +6,22 @@ hello:
   - ortho: Сайн байна yy?
   - ipa: sam ban u
   - comment: "lit: 'are you good?'"
-  - audio: [https://storage.cloud.google.com/mongolian_language_files/test_1.m4v]
-  # https://storage.cloud.google.com/mongolian_language_files/test_2.m4v]
+  - audio: [https://storage.cloud.google.com/mongolian_language_files/hello.ogg]
 
 thank you:
   - ortho: баярлалаа
   - ipa: "bai.rl.a:"
-  - audio: [https://storage.cloud.google.com/mongolian_language_files/test_3.m4v]
+  - audio: [https://storage.cloud.google.com/mongolian_language_files/thank_you.ogg]
 
 goodbye:
   - ortho: Баяртай
+  - audio: [https://storage.cloud.google.com/mongolian_language_files/goodbye.ogg]
 
 excuse me:
   - ortho: өршөөгөөрэй
   - comment: rarely used
+  - audio: [https://storage.cloud.google.com/mongolian_language_files/excuse_me.ogg]
 
 sorry:
   - ortho: уучлаарай
+  - audio: [https://storage.cloud.google.com/mongolian_language_files/sorry.ogg]
