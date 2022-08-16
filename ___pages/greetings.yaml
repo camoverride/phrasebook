@@ -9,22 +9,22 @@ hello:
   - ortho: Сайн байна yy?
   - ipa:
   - comment: "lit: 'are you good?'"
-  - audio: [https://storage.googleapis.com/greetings/mongolian_language_files/hello.ogg]
+  - audio: [https://storage.googleapis.com/mongolian_language_files/greetings/hello.ogg]
 
 thank you:
   - ortho: баярлалаа
   - ipa:
-  - audio: [https://storage.googleapis.com/greetings/mongolian_language_files/thank_you.ogg]
+  - audio: [https://storage.googleapis.com/mongolian_language_files/greetings/thank_you.ogg]
 
 goodbye:
   - ortho: Баяртай
-  - audio: [https://storage.googleapis.com/greetings/mongolian_language_files/goodbye.ogg]
+  - audio: [https://storage.googleapis.com/mongolian_language_files/greetings/goodbye.ogg]
 
 excuse me:
   - ortho: өршөөгөөрэй
   - comment: rarely used
-  - audio: [https://storage.googleapis.com/greetings/mongolian_language_files/excuse_me.ogg]
+  - audio: [https://storage.googleapis.com/mongolian_language_files/greetings/excuse_me.ogg]
 
 sorry:
   - ortho: уучлаарай
-  - audio: [https://storage.googleapis.com/greetings/mongolian_language_files/sorry.ogg]
+  - audio: [https://storage.googleapis.com/mongolian_language_files/greetings/sorry.ogg]
