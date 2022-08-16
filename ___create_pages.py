@@ -96,6 +96,6 @@ def render_pages(yaml_pages, template, output_dir):
 
 
 
-PAGES_TO_RENDER = ["./___pages/greetings.yaml"]
+PAGES_TO_RENDER = ["./___pages/greetings.yaml", "./___pages/colors.yaml", "./___pages/numbers.yaml"]
 
 render_pages(PAGES_TO_RENDER, template="./___page_template.html", output_dir="docs")
